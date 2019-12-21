@@ -1,2 +1,4 @@
 # deepLearning
-My take on DL with sentdex videos as guide
+My take on DL with sentdex videos as guide.
+
+
